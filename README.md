@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glitcHmania
 - 👀 I’m interested in game assets and concept arts.
-- 🌱 I’m currently learning c# and Unity.
+- 🌱 I’m currently learning C and Unity.
 - 📫 How to reach me: glitch5807@hotmail.com
 
 <!---
